@@ -1,0 +1,143 @@
+body{
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 890px;
+  font-family: raleway, sans-serif;
+}
+
+nav {
+  background-color: #82e2ed;
+  color: white;
+  padding: 2px;
+}
+
+.icon{
+  margin-right: 700px;
+}
+
+.pos-one {
+  background-color: #82e2ed;
+  float: right;
+  font-family: raleway, sans-serif;
+  font-size: 14px;
+  color: white;
+  border: none
+}
+
+.pos-two {
+  background-color: #82e2ed;
+  float: right;
+  font-family: raleway, sans-serif;
+  font-size: 14px;
+  color: white;
+  border: none;
+}
+
+.pos-three {
+  background-color: #82e2ed;
+  float: right;
+  font-family: raleway, sans-serif;
+  font-size: 14px;
+  color: white;
+  border: none;
+}
+
+.banner-section {
+  background-image: url("park.jpg");
+  display: block;
+  width: 890px;
+  height: 375px;
+}
+.centered{
+  text-align: center;
+}
+h1{
+  margin-top: 0px;
+  padding-top: 25px;
+  font-size: 22px;
+  display: block;
+}
+
+a:link {
+  color: #3589ad;
+  text-decoration: none;
+  border: 2px solid #3589ad;
+  background-color: white;
+  font-size: 14px;
+  padding: 5px;
+  text-align: center;
+  width: 100px;
+  display: block;;
+  margin: 0 auto 0 auto;
+}
+
+section span {
+  width: 30%;
+  margin-right: 38.5px;
+  font-size: 12px;
+  padding: 0px;
+  float: left;
+
+}
+.column3of3 {
+  margin-right: 0px;
+}
+
+#topdog {
+  width: 225px;
+  height: 225px;
+  border: 3px solid #3589ad;
+  border-radius: 50%;
+}
+
+.bottomdog {
+  width: 165px;
+  height: 165px;
+  border: 1.5px solid #3589ad;
+  border-radius: 50%
+}
+
+.how {
+  border: 3px solid #3589ad;
+  background-color: white;
+  color: #3589ad;
+}
+
+.what {
+  border: 3px solid #3589ad;
+  background-color: white;
+  color: #3589ad;
+}
+
+.facts {
+  border: 3px solid #3589ad;
+  background-color: white;
+  color: #3589ad;
+  margin-bottom: 20px;
+}
+
+footer {
+  clear: both;
+  background-color: #3589ad;
+  text-align: center;
+  color: white;
+  vertical-align: top;
+  padding: 10px;
+  font-size: 14px;
+}
+
+.footer-dogs {
+  padding: 0px;
+  margin: 0px;
+}
+
+.media-links, .media-links img {
+  padding: 15px;
+}
+
+#footer-gh {
+  display: inline;
+  border-style: none;
+  background-color: #3589ad;
+  color: white;
+}
